@@ -3,6 +3,7 @@ title: "Kisun Yoon's Blog"
 description: Kisun Yoon's Blog
 #base_url: https://convexky.github.io/
 #creative_commons: CC BY-NC
+google_analytics: "G-W4WJNBGYFY"
 output_dir: "docs"
 navbar:
   logo:
