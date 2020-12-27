@@ -1,2 +1,2 @@
-# convexky.github.io
-blog using GitHug page
+# distill_blog
+Kisun's blog using distill for R markdown
