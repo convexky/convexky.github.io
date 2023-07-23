@@ -1,5 +1,5 @@
 ---
-title: "About Kisun"
+title: "About Kisun Yoon"
 #description: |
 #  Mathematical Finance and Machine Learning
 ---
@@ -8,4 +8,6 @@ title: "About Kisun"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-저는 낭랑 48세의 한국남자사람입니다.
+CEO/Founder of ModernSmart.
+ModernSmart is a NYC-based startup company with the mission of accelerating the benefit of digitized interactive education.
+Former quantitativ analyst at Wells Fargo and J.P.Morgan. Applied Physics PhD from Harvard.
