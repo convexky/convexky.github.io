@@ -4,15 +4,15 @@
       "path": "about.html",
       "title": "About Kisun Yoon",
       "author": [],
-      "contents": "\nCEO/Founder of ModernSmart.\nModernSmart is a NYC-based startup company with the mission of accelerating the benefit of digitized interactive education.\nFormer quantitativ analyst at Wells Fargo and J.P.Morgan. Applied Physics PhD from Harvard.\n\n\n\n",
-      "last_modified": "2023-07-23T13:04:56-04:00"
+      "contents": "\nCEO/Founder of ModernSmart\nModernSmart is a NYC-based startup company with the mission of accelerating the benefit of digitized interactive education\nFormer quantitative analyst at Wells Fargo and J.P.Morgan\nApplied Physics PhD from Harvard\n\n\n\n",
+      "last_modified": "2023-07-23T13:41:40-04:00"
     },
     {
       "path": "index.html",
       "title": "",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-07-23T13:04:56-04:00"
+      "last_modified": "2023-07-23T13:41:40-04:00"
     }
   ],
   "collections": ["posts/posts.json"]
